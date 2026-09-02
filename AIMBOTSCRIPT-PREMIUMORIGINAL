@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjgyMTZjMzE2LTVmZjUtNDU0MC05NDEwLWFjN2E2ZjBiZmIzYyIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJtbTJvdmVyZHJpdmUifX0"))()
+loadstring(game:HttpGet("https://codeberg.org/elysiummm/whatthehelly/raw/branch/main/visual/mm2_faketrade"))()
